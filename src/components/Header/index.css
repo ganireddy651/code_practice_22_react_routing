@@ -1,0 +1,39 @@
+/* Write your CSS code here */
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 45px;
+}
+.nxt-wave-logo {
+  height: 30px;
+  width: 30px;
+}
+.nav-logo-container {
+  display: flex;
+  align-items: center;
+}
+.nav-heading {
+  color: #12022f;
+  font-family: 'Roboto';
+  font-weight: 600;
+  margin-left: 5px;
+}
+.nav-link-container {
+  display: flex;
+  justify-content: space-around;
+}
+.nav-links {
+  color: #12022f;
+  font-family: 'Roboto';
+  font-weight: 600;
+  margin-left: 20px;
+}
+.link {
+  border-width: 0;
+}

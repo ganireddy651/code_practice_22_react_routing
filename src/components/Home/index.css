@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.home-heading {
+  font-size: 30px;
+  color: #6d396b;
+  font-family: 'Roboto';
+}
+.home-image {
+  height: 200px;
+  width: 200px;
+}
+.home-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
